@@ -1,0 +1,63 @@
+
+ul li {
+  background-color: #ddd;
+  display: block;
+  position: relative;
+  float: left;
+  padding: 0.9em;
+}
+
+a {
+  color: red;
+  font-weight: bold;
+}
+
+footer {
+  background-color: #000;
+  color: #fff;
+  margin-top: 550px;
+}
+
+.header {
+  background: #000;
+  color: #FFF;
+}
+
+.arrow-big {
+  width: 20px;
+  height: 20px;
+  padding: -1rem;
+}
+
+.link-header {
+  display: block;
+  text-align: right;
+  flex: auto;
+  margin-top: 0;
+}
+
+.side-bar {
+  float: right;
+  border: 1px solid #000;
+  border-color: #000;
+  padding: 2.5rem;
+  margin-left: 250px;
+  width: 200px;
+}
+
+.side-bar2 {
+  background-color: #000;
+  color: #fff;
+  float: right;
+  border: 1px solid #000;
+  border-color: #000;
+  padding: 2.5rem;
+  margin-left: 250px;
+  width: 200px;
+}
+
+.poster {
+  float: right;
+  width: 200px;
+  height: 125px;
+}
